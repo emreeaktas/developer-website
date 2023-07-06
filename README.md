@@ -10,6 +10,3 @@ CSS3
 JS
 BOOTSTRAP
 JQUERY
-REACT JS
-Angular
-```
